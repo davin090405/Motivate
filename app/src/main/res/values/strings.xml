@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Motivate</string>
+    <string name="gambar_kategori_bmi">Gambar kategori BMI</string>
+    <string name="bmi_intro">BMI, atau Body Mass Index merupakan cara untuk menentukan apakah berat
+        badanmu ideal atau tidak, Cobalah sekarang!</string>
+    <string name="berat_badan">Berat badan</string>
+    <string name="tinggi_badan">Tinggi badan</string>
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+    <string name="hitung">Hitung</string>
+    <string name="bmi_x">BMI: %1$.2f</string>
+    <string name="kurus">Kurus</string>
+    <string name="ideal">Ideal</string>
+    <string name="gemuk">Gemuk</string>
+    <string name="tips_kurus">
+Berat badan Anda tergolong kurang (underweight). Kondisi ini bisa menurunkan daya tahan tubuh dan energi sehari-hari.\n
+
+ Tips meningkatkan berat badan:\n
+• Konsumsi makanan tinggi kalori yang sehat (seperti alpukat, kacang-kacangan, susu full cream).\n
+• Makan lebih sering dalam porsi kecil namun sering.\n
+• Tambahkan asupan protein dan karbohidrat kompleks.\n
+• Lakukan olahraga kekuatan seperti angkat beban untuk menambah massa otot.\n
+
+Tetap semangat! Tubuh sehat dimulai dari perhatian kecil terhadap diri sendiri.
+</string>
+
+    <string name="tips_gemuk">
+Berat badan Anda tergolong berlebih (overweight/obesitas). Kondisi ini dapat meningkatkan risiko penyakit seperti diabetes, hipertensi, dan jantung.\n\n
+
+Tips menurunkan berat badan:\n
+• Kurangi makanan berlemak, tinggi gula, dan olahan cepat saji.\n
+• Perbanyak konsumsi sayuran, buah segar, dan air putih.\n
+• Rutin olahraga minimal 30 menit per hari (jalan cepat, bersepeda, atau berenang).\n
+• Tidur cukup dan kelola stres.\n
+
+Perubahan kecil yang konsisten bisa berdampak besar untuk hidup Anda.
+</string>
+
+    <string name="tips_ideal">
+Selamat! Berat badan Anda tergolong ideal. Ini menandakan keseimbangan antara asupan nutrisi dan aktivitas fisik yang sehat.\n
+
+ Tips menjaga berat badan ideal:\n
+• Pertahankan pola makan bergizi seimbang.\n
+• Lanjutkan aktivitas fisik rutin seperti jogging, yoga, atau olahraga favorit Anda.\n
+• Hindari stres berlebihan dan tidur cukup.\n
+• Periksa kesehatan secara berkala.\n
+
+ Terus jaga gaya hidup sehat, tubuh ideal adalah investasi jangka panjang!
+</string>
+
+    <string name="input_invalid">Nilai tidak boleh kosong atau nol.</string>
+
+    <string name="input_invalid_feedback">Silakan isi data dengan benar!</string>
+
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">Berat badan: %1$s kg\nTinggi badanL: %2$s
+    cm\nJenis kelamin: %3$s\n\nBMI: %4$.2f\n%5$s</string>
+    <string name="tentang_aplikasi">Tentang aplikasi</string>
+    <string name="copyright">Hitung BMI merupakan sebuah aplikasi Android untuk menghitung body mass
+        index (BMI) sehingga seseorang dapat mengetahui berat badannya ideal,
+        gemuk atau kurus.\n\nAplikasi ini dibuat untuk Assesment 1 Pemograman untuk Perangkat
+        Bergerak 1.\n\nCopyright © 2024-2025 Davin Akmal Yasha.\nAll rights reserved.</string>
+    <string name="kembali">Kembali</string>
+</resources>

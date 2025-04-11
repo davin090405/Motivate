@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Motivate</string>
+    <string name="bmi_intro">BMI, or Body Mass Index, is a way to determine whether your weight is ideal or not. Try it now!</string>
+    <string name="berat_badan">Body Weight</string>
+    <string name="tinggi_badan">Body Height</string>
+    <string name="pria">Man</string>
+    <string name="wanita">Woman</string>
+    <string name="hitung">Count</string>
+    <string name="bmi_x">"BMI "</string>
+    <string name="kurus">Skiny</string>
+    <string name="ideal">Ideal</string>
+    <string name="gemuk">Fat</string>
+    <string name="input_invalid">Can\'t be empty</string>
+    <string name="bagikan">Share</string>
+    <string name="bagikan_template">Body Weight:</string>
+    <string name="tentang_aplikasi">About The apps</string>
+    <string name="copyright">Hitung BMI\" is an Android application for calculating Body Mass Index (BMI), allowing users to find out whether their weight is ideal, overweight, or underweight.\\n\\nThis app was created for the Mobile Programming 1 course.\\n\\nCopyright © 2024–2025 Davin Akmal Yasha.\\nAll rights reserved.</string>
+    <string name="kembali">Back</string>
+</resources>
