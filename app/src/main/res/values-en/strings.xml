@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Motivate</string>
+    <string name="gambar_kategori_bmi">Picture of BMI category</string>
     <string name="bmi_intro">BMI, or Body Mass Index, is a way to determine whether your weight is ideal or not. Try it now!</string>
     <string name="berat_badan">Body Weight</string>
     <string name="tinggi_badan">Body Height</string>
@@ -11,10 +12,14 @@
     <string name="kurus">Skiny</string>
     <string name="ideal">Ideal</string>
     <string name="gemuk">Fat</string>
+    <string name="tips_ideal">Congratulations! Your weight is considered ideal. This reflects a healthy balance of nutrition and physical activity.\\n\\n  Tips to maintain ideal weight:\\n • Continue eating a balanced and nutritious diet. \\n• Stay active with regular physical activities like jogging, yoga, or your favorite sports.\\n • Avoid excessive stress and ensure proper sleep.\\n • Do regular health check-ups. \\n  Keep up the healthy lifestyle your ideal body is a long-term investment!</string>
     <string name="input_invalid">Can\'t be empty</string>
+    <string name="input_invalid_feedback">Please fill With right input</string>
     <string name="bagikan">Share</string>
     <string name="bagikan_template">Body Weight:</string>
     <string name="tentang_aplikasi">About The apps</string>
     <string name="copyright">Hitung BMI\" is an Android application for calculating Body Mass Index (BMI), allowing users to find out whether their weight is ideal, overweight, or underweight.\\n\\nThis app was created for the Mobile Programming 1 course.\\n\\nCopyright © 2024–2025 Davin Akmal Yasha.\\nAll rights reserved.</string>
     <string name="kembali">Back</string>
+    <string name="tips_kurus">Your weight is considered underweight. This condition may reduce your immune system and energy for daily activities. \\n Tips to gain weight: \\n\\n• Eat high-calorie but healthy foods (such as avocados, nuts, full-cream milk).\\n • Have more frequent meals with smaller portions.\\n • Increase protein and complex carbohydrates intake.\\n • Do strength training like weightlifting to build muscle mass. \\n  Keep going! A healthy body starts with small acts of self-care.</string>
+    <string name="tips_gemuk">Your weight is considered overweight or obese. This may increase the risk of conditions such as diabetes, hypertension, and heart disease.\\n\\n  Tips to lose weight:\\n • Reduce intake of fatty, sugary, and processed foods.\\n • Eat more vegetables, fresh fruits, and drink plenty of water.\\n • Exercise regularly for at least 30 minutes a day (brisk walking, cycling, or swimming).\\n • Get enough sleep and manage stress.  Small consistent changes can lead to big results for your life.</string>
 </resources>
